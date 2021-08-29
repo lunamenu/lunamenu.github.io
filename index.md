@@ -5,7 +5,7 @@
 - Increase / Decrease the search index
 - Spawn the following vehicles: Clown Van, Space Docker, Hydra, Infernus and Sanchez
 
-**Download from the [official Site](https://lunamenu.com)** <<
+**Download from the [Official Site](https://lunamenu.com)** <<
 
 ![luna mod menu](https://lunamenu.com/wp-content/uploads/luna-mod-menu.jpg)
 
