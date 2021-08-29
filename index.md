@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Luna mod menu for GTA 5 adds the following functions to the game:
 
-You can use the [editor on GitHub](https://github.com/lunamenu/lunamodmenu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Maximum health
+- Maximum bulletproof vest
+- Increase / Decrease the search index
+- Spawn the following vehicles: Clown Van, Space Docker, Hydra, Infernus and Sanchez
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Download from the [official Site](https://lunamenu.com)** <<
 
-### Markdown
+### Compatible with GTA V on PC.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Installation instructions: Extract ModMenu.dll in the scripts folder located in the main game directory. While playing, press F4 to open the menu and navigate using the keys on the numeric keypad.
 
-```markdown
-Syntax highlighted code block
+Additional Info: Script Hook V, ASI Loader, and Script Hook V.NET are required.
 
-# Header 1
-## Header 2
-### Header 3
+This mod for GTA 5 allows you to select an amount of money to give to your solo character using a menu. Compatible with GTA V on PC.
 
-- Bulleted
-- List
+Installation instructions: Extract one of the "scripts" folders provided in the archive into the main game directory (choose between English and German). Here are the commands to perform during the game:
+- F6: Open menu
+- NUM8 / NUM2: Navigate
+- NUM5: Choose
+- F7: Close the menu
 
-1. Numbered
-2. List
+This mod for GTA 5 allows you to modify your vehicle no matter where you are. Compatible with GTA V on PC.
 
-**Bold** and _Italic_ and `Code` text
+Installation Instructions: Extract CarTuner-By-Erexo.asi into the main GTA V directory. While playing, press F5 to open the menu. Navigate with NUM2 and NUM8 and press NUM0 to return. Press NUM9 for boost (when enabled) and NUM3 to disable boost.
 
-[Link](url) and ![Image](src)
-```
+This mod for GTA 5 makes it easy to make vehicles added to the game appear using the add-on method and place them in separate categories. Compatible with GTA V on PC.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Installation instructions: Extract the contents of the scripts folder from the archive to the scripts folder located in the main game directory. While playing, press F8 to open the menu.
 
-### Jekyll Themes
+To add a category:
+1. Open the AddOnCarSpawner folder
+2. Create a new CFG file and rename it (ex: Toyota.cfg or Sports Car.cfg or A-D.cfg or E-H.cfg or Batman Vehicles.cfg)
+3. Open it with notepad, then file and save
+4. Change the encoding to UTF-8 and save
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lunamenu/lunamodmenu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To add a vehicle:
+1. Open the AddOnCarSpawner folder and choose a CFG file
+2. Open it with Notepad
+3. Add Car Name \ Model Name (ex: Grotti Turismo R \ turismor)
+4. Make file and save
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Additional Info: Script Hook V, ASI Loader, and Script Hook V.NET are required.
