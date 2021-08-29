@@ -1,4 +1,4 @@
-## Luna mod menu for GTA 5 adds the following functions to the game:
+# Luna mod menu for GTA 5
 
 - Maximum health
 - Maximum bulletproof vest
